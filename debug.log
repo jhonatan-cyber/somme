@@ -1,0 +1,7 @@
+[01-Jun-2024 03:35:09 America/La_Paz] Conexión exitosa
+[01-Jun-2024 03:35:09 America/La_Paz] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_libreria.users' doesn't exist
+[01-Jun-2024 03:35:35 America/La_Paz] Conexión exitosa
+[01-Jun-2024 03:55:47 America/La_Paz] Conexión exitosa
+[21-Aug-2024 11:56:18 America/La_Paz] Conexión exitosa
+[21-Aug-2024 11:56:18 America/La_Paz] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_libreria.persona' doesn't exist
+[21-Aug-2024 12:13:09 America/La_Paz] Conexión exitosa
